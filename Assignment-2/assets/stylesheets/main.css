@@ -164,7 +164,7 @@ header {
     flex-basis: 45%;
 }
 .article {
-    margin: auto 0;
+    align-self: center;
 }
 /* 3 columns  */
 .col-1-2-3 {
@@ -207,7 +207,7 @@ h3 {
     color: #E9E9EB;
 }
 .center-box {
-    margin: auto 0;
+    align-self: center;
 }
 /* bottom nav */
 .bottom-nav {
